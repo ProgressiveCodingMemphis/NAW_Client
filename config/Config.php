@@ -21,7 +21,7 @@ define('DEBUG_ARG',1);
    *   2 = write to log and email
    *   3 = email only
    *   4 = all
-   *   5 = print to screen
+   *   5 = print to screen (default)
   */
 define('DEBUG_LEVEL',5);
 //execute load program
